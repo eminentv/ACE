@@ -299,6 +299,6 @@ AppVeyor/
 [Cc]onfig.js
 log4net.config
 Database/tools/password.txt
-docker.env
-docker-compose.yml
-docker-compose.arm64
+#docker.env
+#docker-compose.yml
+#docker-compose.arm64
